@@ -115,7 +115,7 @@ ul.main-menu {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: left;
+  justify-content: center;
   list-style: none;
 }
 ul.main-menu li a {
@@ -140,4 +140,9 @@ ul.main-menu li a.active {
   display:block;
 }
 
+.imagecenter {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
 
